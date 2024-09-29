@@ -66,11 +66,14 @@ The package was developed and tested in Python 3.7.16 with [Anaconda](https://ww
 
 You can create the `interactionvideo` environment and install the required packages by running the following commands in the terminal:
 > conda create -n interactionvideo python=3.7.16
+>
 > conda activate interactionvideo
+>
 > pip install -r requirements.txt
 
 Alternatively, if you want to use the `environment.yml` file to create the environment, please run the following commands in the terminal:
 > conda env create -f environment.yml
+>
 > conda activate interactionvideo
 
 ### Face++
